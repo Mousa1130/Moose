@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Never Gonna Give You Up</title>
+  <title>how to be a sigma</title>
 </head>
 <body>
-  <h1>Never Gonna Give You Up</h1>
-  <p>We're no strangers to love</p>
+  <h1>yup</h1>
+  <p>yip</p>
   <!-- Add more lyrics here -->
   
   <!-- Optional: Embedding the Rickroll video -->
